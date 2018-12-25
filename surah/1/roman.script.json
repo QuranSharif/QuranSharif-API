@@ -12,31 +12,31 @@
       {
         "number":1,
         "text":"Bismillaahir Rahmaanir Raheem",
-        "numberInSurah":1,
+        "numberInSurah":1
       }, {
         "number":2,
         "text":"Alhamdu lillaahi Rabbil 'aalameen",
-        "numberInSurah":2,
+        "numberInSurah":2
       }, {
         "number":3,
         "text":"Ar-Rahmaanir-Raheem",
-        "numberInSurah":3,
+        "numberInSurah":3
       }, {
         "number":4,
         "text":"Maaliki Yawmid-Deen",
-        "numberInSurah":4,
+        "numberInSurah":4
       }, {
         "number":5,
         "text":"Iyyaaka na'budu wa lyyaaka nasta'een",
-        "numberInSurah":5,
+        "numberInSurah":5
       }, {
         "number":6,
         "text":"Ihdinas-Siraatal-Mustaqeem",
-        "numberInSurah":6,
+        "numberInSurah":6
       }, {
         "number":7,
         "text":"Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
-        "numberInSurah":7,
+        "numberInSurah":7
       }
     ],
     "edition":{
