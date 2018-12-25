@@ -1,51 +1,51 @@
 {
-  "code":200,
-  "status":"OK",
+  "code": 200,
+  "status": "OK",
   "data": {
     "number": 1,
     "name": "سورة الفاتحة",
-    "englishName":"Al-Faatiha",
-    "englishNameTranslation":"The Opening",
-    "revelationType":"Meccan",
-    "numberOfAyahs":7,
-    "ayahs":[
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7,
+    "ayahs": [
       {
-        "number":1,
-        "text":"Bismillaahir Rahmaanir Raheem",
-        "numberInSurah":1
+        "number": 1,
+        "text": "Bismillaahir Rahmaanir Raheem",
+        "numberInSurah": 1
       }, {
-        "number":2,
-        "text":"Alhamdu lillaahi Rabbil 'aalameen",
-        "numberInSurah":2
+        "number": 2,
+        "text": "Alhamdu lillaahi Rabbil 'aalameen",
+        "numberInSurah": 2
       }, {
-        "number":3,
-        "text":"Ar-Rahmaanir-Raheem",
-        "numberInSurah":3
+        "number": 3,
+        "text": "Ar-Rahmaanir-Raheem",
+        "numberInSurah": 3
       }, {
-        "number":4,
-        "text":"Maaliki Yawmid-Deen",
-        "numberInSurah":4
+        "number": 4,
+        "text": "Maaliki Yawmid-Deen",
+        "numberInSurah": 4
       }, {
-        "number":5,
-        "text":"Iyyaaka na'budu wa lyyaaka nasta'een",
-        "numberInSurah":5
+        "number": 5,
+        "text": "Iyyaaka na'budu wa lyyaaka nasta'een",
+        "numberInSurah": 5
       }, {
-        "number":6,
-        "text":"Ihdinas-Siraatal-Mustaqeem",
-        "numberInSurah":6
+        "number": 6,
+        "text": "Ihdinas-Siraatal-Mustaqeem",
+        "numberInSurah": 6
       }, {
-        "number":7,
-        "text":"Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
-        "numberInSurah":7
+        "number": 7,
+        "text": "Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
+        "numberInSurah": 7
       }
     ],
-    "edition":{
-        "identifier":"roman.script",
-        "language":"en",
-        "name":"Junayed Ah'med",
-        "englishName":"Zonayed Ahmed",
-        "format":"text",
-        "type":"translation"
-        }
-      }
+    "edition": {
+      "identifier": "roman.script",
+      "language": "en",
+      "name": "Junayed Ah'med",
+      "englishName": "Zonayed Ahmed",
+      "format": "text",
+      "type": "translation"
     }
+  }
+}
